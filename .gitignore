@@ -1,0 +1,17 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+#APPLICATION
+/application/node_modules
+/application/src/environments
+/application/temp/
+/public/.DS_Store
+/public/*.log
+/public/*.swp
+
+# SERVER
+# dependencies
+/server/node_modules
+/server/config.js
+
+#DATABASE
+/database/*
